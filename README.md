@@ -25,3 +25,8 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
    ```bash
    javac Calculator.java
    java Calculator
+
+## 📸 Screenshot
+Here is how the calculator looks:
+
+![Calculator Screenshot](screenshot11.png)
